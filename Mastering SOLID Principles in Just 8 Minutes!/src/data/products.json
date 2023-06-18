@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 12",
+    "description": "A powerful and advanced smartphone with a sleek design.",
+    "imageUrl": "https://example.com/iphone12.jpg",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "A feature-packed Android phone with a stunning display.",
+    "imageUrl": "https://example.com/galaxys21.jpg",
+    "price": 899
+  },
+  {
+    "id": 3,
+    "name": "Sony PlayStation 5",
+    "description": "Next-gen gaming console for immersive gaming experiences.",
+    "imageUrl": "https://example.com/ps5.jpg",
+    "price": 499
+  }
+]
